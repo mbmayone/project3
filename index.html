@@ -1,0 +1,156 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Vox News-Movie Death Count and Ratings</title>
+  <meta name="description" content="Vox News-Movie Death Count and Ratings">
+  <meta name="author" content="SitePoint">
+  <meta name="viewport" content="width=500, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.20/datatables.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<header>
+  <!-- creates nav and hamburger menu -->
+  <label for="hamburger">&#9776;</label>
+  <input type="checkbox" id="hamburger"/>
+  <ul id="nav">
+    <li><a href="#">RECODE</a></li>
+    <li><a href="#">THE GOODS</a></li>
+    <li><a href="#">FUTURE PERFECT</a></li>
+    <li><a href="#">THE HIGHLIGHT</a></li>
+    <li><a href="#">FIRST PERSON</a></li>
+    <li><a href="#">PODCASTS</a></li>
+    <li><a href="#">VIDEO</a></li>
+    <li><a href="#">MORE</a></li>
+  </ul>
+  <div class="voxbox">
+    <h1><span>Vox</span></h1>
+  </div>
+</header>
+
+<!-- content of article -->
+<div class="article">
+  <div class="a-title">
+    <h1>"That's too much for me": Dead Bodies in Movies</h1>
+    <h4>A look at dead body counts in movies and it's effects on movie ratings.</h4>
+    <h5>By <a href="#"> Maggie Mayone</a> | October 20, 2019 12:04pm EDT</h5>
+  </div>
+
+  <div class="break"></div>
+
+  <div class="paragraph">
+    <p>Movies can depict a warped version of reality where everything is exaggerated. This exaggeration can be a lot for some movie-goers, especially when it involves gore, death, and human corpses. It can make some viewers upset, especially those who were not expecting it, or it can make them satisfied if they wanted the gore. This can affect the overall reception of the movies.</p>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>The MPAA or Motion Picture Association of America has ratings that help guide viewers to the amount of bloodshed and death they want to see. But does the amount of deaths in a movie affect the overall reception of that movie? Do people that go to see an ‘R’ or ‘M’ rated movie expect more death? Are they unhappy if there isn’t?</p>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>Let’s take into consideration two movies with the same MPAA rating, ‘R’: <i>“The Shawshank Redemption”</i>, which has one of the highest IMDb ratings of all time with a 9.3, and <i>“House of the Dead”</i>, which has one of the lowest IMDb ratings with a 2. Both of these movies are rated ‘R’ but <i>“The Shawshank Redemption”</i> only has 4 deaths while <i>“House of the Dead”</i> has 141. </p>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>On the other hand, let’s take two movies with a ‘PG-13’ MPAA rating: <i>“Fool’s Gold”</i> and <i>“Lord of the Rings: Return of the King”</i>. <i>“Fools Gold”</i> has a 5.5 IMDb rating with 1 death while <i>“Lord of the Rings: Return of the King”</i> has a rating of 8.9 with a death count of 836, one of the highest. So, dead body count doesn’t necessarily correlate with rating MPAA rating and overall reception but let’s look at its correlation with overall movie reception.</p>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>This chart shows the top 10 movies on IMDb as of 2013 and their overall dead body count. Although there is no overall correlation, it is obvious that there is death in every film, whether it be 4 casualties or 836.</p>
+    <div id="topten-chart">Chart here</div>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>Now let’s look at the average amount of dead bodies per MPAA rating (charted below). There is also no correlation between the rating and the number of bodies, although one would think they would increase with the ratings.</p>
+    <div id="mpaarating-chart">Chart here</div>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>Looking at all of the data overall (as pictured in the scatter plot below) and the ratio between the IMDb rating and the body count also shows that there is no correlation between the number of deaths and the rating.</p>
+    <div id="rating-chart">Chart here</div>
+  </div>
+
+  <div class="break2"></div>
+
+  <div class="paragraph">
+    <p>This data proves that overall there is no correlation between the number of dead bodies in a movie and the viewer reception despite the MPAA rating. Movies come and all different varieties and it’s difficult to determine what is “too much” or “too little” when it comes to death on film.</p>
+  </div>
+
+
+
+<!--creates table -->
+    <div class="table-bottom">
+    <table id="example" class="display compact nonwrap table-bordered dt-responsive" cellspacing="0" width="100%">
+            <thead>
+                <tr>
+                    <th>Film</th>
+                    <th>Year</th>
+                    <th>Body Count</th>
+                    <th>MPAA Rating</th>
+                    <th>Genre</th>
+                    <th>Director</th>
+                    <th>Runtime</th>
+                    <th>IMDB Rating</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                  <th>Film</th>
+                  <th>Year</th>
+                  <th>Body Count</th>
+                  <th>MPAA Rating</th>
+                  <th>Genre</th>
+                  <th>Director</th>
+                  <th>Runtime</th>
+                  <th>IMDB Rating</th>
+                </tr>
+            </tfoot>
+        </table>
+      </div>
+</div>
+
+
+<div class="footer">
+  <p>Data provided by <a href="https://figshare.com/articles/On_screen_movie_kill_counts_for_hundreds_of_films/889719/1">figshare.</a></p>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/c3.min.js"></script>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>

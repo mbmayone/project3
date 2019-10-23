@@ -1,0 +1,5362 @@
+[
+  {
+    "Film": "House of the Dead",
+    "Year": 2003,
+    "Body_Count": 141,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Thriller",
+    "Director": "Uwe Boll",
+    "Length_Minutes": 90,
+    "IMDB_Rating": 2
+  },
+  {
+    "Film": "Battlefield Earth",
+    "Year": 2000,
+    "Body_Count": 51,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi",
+    "Director": "Roger Christian",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 2.4
+  },
+  {
+    "Film": "BloodRayne",
+    "Year": 2006,
+    "Body_Count": 102,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Fantasy|Horror",
+    "Director": "Uwe Boll",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 2.8
+  },
+  {
+    "Film": "Operation Delta Force",
+    "Year": 1997,
+    "Body_Count": 120,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Sam Firstenberg",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 3.2
+  },
+  {
+    "Film": "Sweepers",
+    "Year": 1998,
+    "Body_Count": 74,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Keoni Waxman",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 3.4
+  },
+  {
+    "Film": "In the Name of the King: A Dungeon Siege Tale",
+    "Year": 2007,
+    "Body_Count": 329,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Uwe Boll",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 3.8
+  },
+  {
+    "Film": "Plan 9 from Outer Space",
+    "Year": 1959,
+    "Body_Count": 7,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Adventure|Horror|Sci-Fi",
+    "Director": "Edward D. Wood Jr.",
+    "Length_Minutes": 79,
+    "IMDB_Rating": 3.9
+  },
+  {
+    "Film": "Super Mario Bros.",
+    "Year": 1993,
+    "Body_Count": 8,
+    "MPAA_Rating": "PG",
+    "Genre": "Adventure|Comedy|Family|Fantasy|Sci-Fi",
+    "Director": "Annabel Jankel|Rocky Morton",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 3.9
+  },
+  {
+    "Film": "The Patriot",
+    "Year": 1998,
+    "Body_Count": 42,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Dean Semler",
+    "Length_Minutes": 90,
+    "IMDB_Rating": 3.9
+  },
+  {
+    "Film": "From Dusk Till Dawn 2: Texas Blood Money",
+    "Year": 1999,
+    "Body_Count": 63,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Horror",
+    "Director": "Scott Spiegel",
+    "Length_Minutes": 88,
+    "IMDB_Rating": 3.9
+  },
+  {
+    "Film": "Fair Game",
+    "Year": 1995,
+    "Body_Count": 21,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Andrew Sipes",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 4
+  },
+  {
+    "Film": "On Deadly Ground",
+    "Year": 1994,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "Steven Seagal",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 4.1
+  },
+  {
+    "Film": "Jason X",
+    "Year": 2001,
+    "Body_Count": 27,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi|Thriller",
+    "Director": "James Isaac",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 4.3
+  },
+  {
+    "Film": "Warriors of the Wasteland",
+    "Year": 1983,
+    "Body_Count": 89,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Enzo G. Castellari",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 4.4
+  },
+  {
+    "Film": "Delta Force 2",
+    "Year": 1990,
+    "Body_Count": 92,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller|War",
+    "Director": "Aaron Norris",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 4.4
+  },
+  {
+    "Film": "Bridge of Dragons",
+    "Year": 1999,
+    "Body_Count": 109,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Romance|Sci-Fi|Thriller",
+    "Director": "Isaac Florentine",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 4.4
+  },
+  {
+    "Film": "Starship Troopers 3: Marauder",
+    "Year": 2008,
+    "Body_Count": 171,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Edward Neumeier",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 4.4
+  },
+  {
+    "Film": "McBain",
+    "Year": 1991,
+    "Body_Count": 181,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama",
+    "Director": "James Glickenhaus",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 4.6
+  },
+  {
+    "Film": "The Musketeer",
+    "Year": 2001,
+    "Body_Count": 56,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Drama|Adventure|Romance",
+    "Director": "Peter Hyams",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 4.6
+  },
+  {
+    "Film": "Red Scorpion",
+    "Year": 1989,
+    "Body_Count": 104,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure",
+    "Director": "Joseph Zito",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 4.7
+  },
+  {
+    "Film": "Wild Wild West",
+    "Year": 1999,
+    "Body_Count": 95,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Western|Comedy",
+    "Director": "Barry Sonnenfield",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 4.7
+  },
+  {
+    "Film": "Charlie's Angels: Full Throttle",
+    "Year": 2003,
+    "Body_Count": 39,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Comedy|Crime",
+    "Director": "McG",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 4.7
+  },
+  {
+    "Film": "Aliens vs. Predator: Requiem",
+    "Year": 2007,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Sci-Fi|Thriller",
+    "Director": "Colin Strause|Greg Strause",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 4.7
+  },
+  {
+    "Film": "Red Sonja",
+    "Year": 1985,
+    "Body_Count": 96,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Richard Fleischer",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 4.8
+  },
+  {
+    "Film": "The Fly 2",
+    "Year": 1989,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi",
+    "Director": "Chris Walas",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 4.8
+  },
+  {
+    "Film": "Dracula 2000",
+    "Year": 2000,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Thriller",
+    "Director": "Patrick Lussier",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 4.8
+  },
+  {
+    "Film": "Action Jackson",
+    "Year": 1988,
+    "Body_Count": 17,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Craig R. Baxley",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 4.9
+  },
+  {
+    "Film": "Congo",
+    "Year": 1995,
+    "Body_Count": 92,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Mystery",
+    "Director": "Frank Marshall",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 4.9
+  },
+  {
+    "Film": "Get Carter",
+    "Year": 2000,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Stephen Kay",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 4.9
+  },
+  {
+    "Film": "Invasion U.S.A.",
+    "Year": 1985,
+    "Body_Count": 146,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Joseph Zito",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 5
+  },
+  {
+    "Film": "Death Wish 4: The Crackdown",
+    "Year": 1987,
+    "Body_Count": 57,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "J. Lee Thompson",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 5
+  },
+  {
+    "Film": "Missing in Action",
+    "Year": 1984,
+    "Body_Count": 100,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama|Thriller|War",
+    "Director": "Joseph Zito",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 5.1
+  },
+  {
+    "Film": "American Ninja",
+    "Year": 1985,
+    "Body_Count": 114,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Romance|Sport",
+    "Director": "Sam Firstenberg",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 5.1
+  },
+  {
+    "Film": "Platoon Leader",
+    "Year": 1988,
+    "Body_Count": 106,
+    "MPAA_Rating": "R",
+    "Genre": "War|Drama",
+    "Director": "Aaron Norris",
+    "Length_Minutes": 97,
+    "IMDB_Rating": 5.1
+  },
+  {
+    "Film": "Texas Rangers",
+    "Year": 2001,
+    "Body_Count": 84,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Steve Miner",
+    "Length_Minutes": 90,
+    "IMDB_Rating": 5.1
+  },
+  {
+    "Film": "The Tripper",
+    "Year": 2006,
+    "Body_Count": 56,
+    "MPAA_Rating": "R",
+    "Genre": "Horror",
+    "Director": "David Arquette",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 5.1
+  },
+  {
+    "Film": "Maximum Risk",
+    "Year": 1996,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "Ringo Lam",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 5.2
+  },
+  {
+    "Film": "Doom",
+    "Year": 2005,
+    "Body_Count": 89,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Horror",
+    "Director": "Andrzej Bartkowiak",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 5.2
+  },
+  {
+    "Film": "Ghost Rider",
+    "Year": 2007,
+    "Body_Count": 52,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Fantasy|Thriller",
+    "Director": "Mark Steven Johnson",
+    "Length_Minutes": 114,
+    "IMDB_Rating": 5.2
+  },
+  {
+    "Film": "Strange Wilderness",
+    "Year": 2008,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy",
+    "Director": "Fred Wolf",
+    "Length_Minutes": 87,
+    "IMDB_Rating": 5.2
+  },
+  {
+    "Film": "Mutant Chronicles",
+    "Year": 2008,
+    "Body_Count": 310,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Horror",
+    "Director": "Simon Hunter",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 5.2
+  },
+  {
+    "Film": "Raw Deal",
+    "Year": 1986,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "John Irvin",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 5.3
+  },
+  {
+    "Film": "Under Siege 2",
+    "Year": 1995,
+    "Body_Count": 47,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Geoff Murphy",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 5.3
+  },
+  {
+    "Film": "Blood and Chocolate",
+    "Year": 2007,
+    "Body_Count": 256,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Fantasy|Horror",
+    "Director": "Katja von Garnier",
+    "Length_Minutes": 98,
+    "IMDB_Rating": 5.3
+  },
+  {
+    "Film": "Max Payne",
+    "Year": 2008,
+    "Body_Count": 38,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Drama|Mystery|Thriller",
+    "Director": "John Moore",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 5.3
+  },
+  {
+    "Film": "Silent Trigger",
+    "Year": 1996,
+    "Body_Count": 35,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Thriller",
+    "Director": "Russell Mulcahy",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Exit Wounds",
+    "Year": 2001,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Drama|Thriller",
+    "Director": "Andrzej Bartkowiak",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Riders",
+    "Year": 2002,
+    "Body_Count": 6,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Gerard Pires",
+    "Length_Minutes": 83,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Riders",
+    "Year": 2002,
+    "Body_Count": 6,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Gerard Pires",
+    "Length_Minutes": 83,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Collateral Damage",
+    "Year": 2002,
+    "Body_Count": 90,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Thriller",
+    "Director": "Andrew Davis",
+    "Length_Minutes": 108,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "The Scorpion King",
+    "Year": 2002,
+    "Body_Count": 105,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Thriller",
+    "Director": "Chuck Russell",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Bulletproof Monk",
+    "Year": 2003,
+    "Body_Count": 37,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Comedy|Fantasy",
+    "Director": "Paul Hunter",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Aeon Flux",
+    "Year": 2005,
+    "Body_Count": 58,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi",
+    "Director": "Karyn Kusama",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Alexander",
+    "Year": 2005,
+    "Body_Count": 119,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Biography",
+    "Director": "Oliver Stone",
+    "Length_Minutes": 175,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Bangkok Dangerous",
+    "Year": 2008,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Oxide Pang Chun|Danny Pang",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "My Bloody Valentine 3D",
+    "Year": 2009,
+    "Body_Count": 24,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Thriller",
+    "Director": "Patrick Lussier",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 5.4
+  },
+  {
+    "Film": "Rambo III",
+    "Year": 1988,
+    "Body_Count": 127,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "Peter MacDonald",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "The Punisher",
+    "Year": 1989,
+    "Body_Count": 96,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Mark Goldblatt",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Hard to Kill",
+    "Year": 1990,
+    "Body_Count": 19,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Crime|Thriller",
+    "Director": "Bruce Malmuth",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Class of 1999",
+    "Year": 1990,
+    "Body_Count": 43,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Sci-Fi",
+    "Director": "Mark L. Lester",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "House on Haunted Hill",
+    "Year": 1999,
+    "Body_Count": 30,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Mystery|Thriller",
+    "Director": "William Malone",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Cabin Fever",
+    "Year": 2002,
+    "Body_Count": 19,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi",
+    "Director": "Eli Roth",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Timeline",
+    "Year": 2003,
+    "Body_Count": 65,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Richard Donner",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "The Omen",
+    "Year": 2006,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Mystery|Thriller",
+    "Director": "John Moore",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Fool's Gold",
+    "Year": 2008,
+    "Body_Count": 3,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Adventure|Comedy|Romance|Thriller",
+    "Director": "Andy Tennant",
+    "Length_Minutes": 112,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Friday the 13th",
+    "Year": 2009,
+    "Body_Count": 14,
+    "MPAA_Rating": "R",
+    "Genre": "Horror",
+    "Director": "Marcus Nispel",
+    "Length_Minutes": 97,
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Film": "Stone Cold",
+    "Year": 1991,
+    "Body_Count": 45,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Craig R. Baxley",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Mortal Kombat",
+    "Year": 1995,
+    "Body_Count": 11,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi|Thriller",
+    "Director": "Paul W.S. Anderson",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Hollow Point",
+    "Year": 1996,
+    "Body_Count": 17,
+    "MPAA_Rating": "R",
+    "Genre": "Thriller|Comedy|Action",
+    "Director": "Sidney J. Furie",
+    "Length_Minutes": 90,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Red Planet",
+    "Year": 2000,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Sci-Fi|Action|Thriller",
+    "Director": "Antony Hoffman",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Cradle 2 the Grave",
+    "Year": 2003,
+    "Body_Count": 13,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Andrzej Bartkowiak",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "The Black Dahlia",
+    "Year": 2006,
+    "Body_Count": 13,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery|Thriller",
+    "Director": "Brian De Palma",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Snakes on a Plane",
+    "Year": 2006,
+    "Body_Count": 60,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "David R. Ellis",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Poseidon",
+    "Year": 2006,
+    "Body_Count": 214,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Wolfgang Petersen",
+    "Length_Minutes": 98,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Fantastic Four: Rise of the Silver Surfer",
+    "Year": 2007,
+    "Body_Count": 6,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Fantasy|Sci-Fi|Thriller",
+    "Director": "Tim Story",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "War, Inc.",
+    "Year": 2008,
+    "Body_Count": 73,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Thriller",
+    "Director": "Joshua Seftel",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 5.6
+  },
+  {
+    "Film": "Death Wish 3",
+    "Year": 1985,
+    "Body_Count": 80,
+    "MPAA_Rating": "NC-17",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Michael Winner",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 5.7
+  },
+  {
+    "Film": "Marked for Death",
+    "Year": 1990,
+    "Body_Count": 34,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Dwight H. Little",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 5.7
+  },
+  {
+    "Film": "American Yakuza",
+    "Year": 1993,
+    "Body_Count": 53,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Frank A. Cappello",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 5.7
+  },
+  {
+    "Film": "Circus",
+    "Year": 2000,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Thriller|Drama",
+    "Director": "Rob Walker",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 5.7
+  },
+  {
+    "Film": "Planet of the Apes",
+    "Year": 2001,
+    "Body_Count": 99,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Tim Burton",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 5.7
+  },
+  {
+    "Film": "League of Extraordinary Gentlemen",
+    "Year": 2003,
+    "Body_Count": 55,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Stephen Norrington",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 5.7
+  },
+  {
+    "Film": "Take a Hard Ride",
+    "Year": 1975,
+    "Body_Count": 65,
+    "MPAA_Rating": "PG",
+    "Genre": "Western",
+    "Director": "Antonio Margheriti",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Above the Law",
+    "Year": 1988,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Andrew Davis",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Out For Justice",
+    "Year": 1991,
+    "Body_Count": 20,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller|Crime|Drama",
+    "Director": "John Flynn",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Showdown in",
+    "Year": 1991,
+    "Body_Count": 48,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Mark L. Lester",
+    "Length_Minutes": 79,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Point of No Return",
+    "Year": 1993,
+    "Body_Count": 35,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "John Badham",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Prince of Jutland",
+    "Year": 1994,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Drama",
+    "Director": "Gabriel Axel",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Prince of Jutland",
+    "Year": 1994,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Drama",
+    "Director": "Gabriel Axel",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "The Hunted",
+    "Year": 1995,
+    "Body_Count": 83,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Thriller",
+    "Director": "J.F. Lawton",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Soldier",
+    "Year": 1998,
+    "Body_Count": 77,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Sci-Fi",
+    "Director": "Paul W.S. Anderson",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Jurassic Park III",
+    "Year": 2001,
+    "Body_Count": 6,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi|Thriller",
+    "Director": "Joe Johnston",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Pearl Harbor",
+    "Year": 2001,
+    "Body_Count": 153,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Drama|Romance|War",
+    "Director": "Michael Bay",
+    "Length_Minutes": 183,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Van Helsing",
+    "Year": 2004,
+    "Body_Count": 65,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Stephen Sommers",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Blade: Trinity",
+    "Year": 2004,
+    "Body_Count": 140,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller",
+    "Director": "David S. Goyer",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "The Legend of Zorro",
+    "Year": 2005,
+    "Body_Count": 13,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Western",
+    "Director": "Martin Campbell",
+    "Length_Minutes": 129,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Firewall",
+    "Year": 2006,
+    "Body_Count": 5,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Crime|Thriller",
+    "Director": "Richard Loncraine",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Waist Deep",
+    "Year": 2006,
+    "Body_Count": 6,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Vondie Curtis-Hall",
+    "Length_Minutes": 97,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Film": "Universal Soldier",
+    "Year": 1992,
+    "Body_Count": 47,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Sci-Fi",
+    "Director": "Roland Emmerich",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Broken Arrow",
+    "Year": 1996,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 108,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "The Corruptor",
+    "Year": 1999,
+    "Body_Count": 37,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Mystery|Thriller",
+    "Director": "James Foley",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Shaft",
+    "Year": 2000,
+    "Body_Count": 22,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "John Singleton",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Mission: Impossible II",
+    "Year": 2000,
+    "Body_Count": 37,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 123,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Windtalkers",
+    "Year": 2002,
+    "Body_Count": 389,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "John Woo",
+    "Length_Minutes": 134,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "The Hunted",
+    "Year": 2003,
+    "Body_Count": 74,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "William Friedkin",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "The Alamo",
+    "Year": 2004,
+    "Body_Count": 249,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|History|War",
+    "Director": "John Lee Hancock",
+    "Length_Minutes": 137,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Domino",
+    "Year": 2005,
+    "Body_Count": 51,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Biography|Crime|Drama|Thriller",
+    "Director": "Tony Scott",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Sahara",
+    "Year": 2005,
+    "Body_Count": 68,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Comedy|Thriller|War",
+    "Director": "Breck Eisner",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "The Machine Girl",
+    "Year": 2008,
+    "Body_Count": 25,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Comedy|Horror|Thriller",
+    "Director": "Noboru Iguchi",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Film": "Pulp",
+    "Year": 1972,
+    "Body_Count": 6,
+    "MPAA_Rating": "PG",
+    "Genre": "Comedy|Crime|Drama|Mystery|Thriller",
+    "Director": "Mike Hodges",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "The Adventures of Ford Fairlane",
+    "Year": 1990,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Comedy|Music",
+    "Director": "Renny Harlin",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Waterworld",
+    "Year": 1995,
+    "Body_Count": 67,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Kevin Reynolds",
+    "Length_Minutes": 135,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Eraser",
+    "Year": 1996,
+    "Body_Count": 52,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Mystery|Thriller",
+    "Director": "Chuck Russell",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "The Big Hit",
+    "Year": 1998,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Kirk Wong",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "The Replacement Killers",
+    "Year": 1998,
+    "Body_Count": 38,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Antoine Fuqua",
+    "Length_Minutes": 87,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "A Man Apart",
+    "Year": 2003,
+    "Body_Count": 39,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "F. Gary Gray",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Resident Evil: Apocalypse",
+    "Year": 2004,
+    "Body_Count": 123,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Sci-Fi|Thriller",
+    "Director": "Alexander Witt",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Jack Brooks: Monster Slayer",
+    "Year": 2007,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Horror",
+    "Director": "Jon Knautz",
+    "Length_Minutes": 85,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Jumper",
+    "Year": 2008,
+    "Body_Count": 7,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "Doug Liman",
+    "Length_Minutes": 88,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Punisher: War Zone",
+    "Year": 2008,
+    "Body_Count": 129,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Lexi Alexander",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Doomsday",
+    "Year": 2008,
+    "Body_Count": 188,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi",
+    "Director": "Neil Marshall",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 6
+  },
+  {
+    "Film": "Lone Wolf McQuade",
+    "Year": 1983,
+    "Body_Count": 61,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Steve Carver",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Mad Max Beyond Thunderdome",
+    "Year": 1985,
+    "Body_Count": 12,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "George Miller|George Ogilvie",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Last Action Hero",
+    "Year": 1993,
+    "Body_Count": 45,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Comedy|Family|Fantasy",
+    "Director": "John McTiernan",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Austin Powers in Goldmember",
+    "Year": 2002,
+    "Body_Count": 6,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Comedy|Crime",
+    "Director": "Jay Roach",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Ali G Indahouse",
+    "Year": 2002,
+    "Body_Count": 11,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy",
+    "Director": "Mark Mylod",
+    "Length_Minutes": 85,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Reign of Fire",
+    "Year": 2002,
+    "Body_Count": 32,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi|Thriller",
+    "Director": "Rob Bowman",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "The Ladykillers",
+    "Year": 2004,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Thriller",
+    "Director": "Ethan Coen|Joel Coen",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Walking Tall",
+    "Year": 2004,
+    "Body_Count": 6,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime",
+    "Director": "Kevin Bray",
+    "Length_Minutes": 86,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "The Signal",
+    "Year": 2007,
+    "Body_Count": 78,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi|Thriller",
+    "Director": "David Bruckner|Jacob Gentry|Dan Bush",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Push",
+    "Year": 2009,
+    "Body_Count": 24,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Paul McGuigan",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 6.1
+  },
+  {
+    "Film": "Red Dawn",
+    "Year": 1984,
+    "Body_Count": 118,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "John Milius",
+    "Length_Minutes": 114,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Rambo: First",
+    "Year": 1985,
+    "Body_Count": 67,
+    "MPAA_Rating": "R",
+    "Genre": "Action|War",
+    "Director": "George P. Cosmatos",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Road House",
+    "Year": 1989,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Rowdy Herrington",
+    "Length_Minutes": 114,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Tango & Cash",
+    "Year": 1989,
+    "Body_Count": 20,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Andrey Konchalovskiy|Albert Magnoli",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "The Jackal",
+    "Year": 1997,
+    "Body_Count": 11,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "Michael Caton-Jones",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Contract Killer",
+    "Year": 1998,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy",
+    "Director": "Wei Tung",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Formula 51",
+    "Year": 2001,
+    "Body_Count": 22,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Ronny Yu",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "King Arthur",
+    "Year": 2004,
+    "Body_Count": 378,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Antoine Fuqua",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Transporter 2",
+    "Year": 2005,
+    "Body_Count": 11,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Louis Leterrier",
+    "Length_Minutes": 87,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Superman Returns",
+    "Year": 2006,
+    "Body_Count": 10,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "Bryan Singer",
+    "Length_Minutes": 154,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Next",
+    "Year": 2007,
+    "Body_Count": 53,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Lee Tamahori",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Hitman",
+    "Year": 2007,
+    "Body_Count": 55,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Xavier Gens",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "War",
+    "Year": 2007,
+    "Body_Count": 97,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Philip G. Atwell",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Resident Evil: Extinction",
+    "Year": 2007,
+    "Body_Count": 124,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Sci-Fi|Thriller",
+    "Director": "Russell Mulcahy",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Film": "Navajo Joe",
+    "Year": 1966,
+    "Body_Count": 82,
+    "MPAA_Rating": "NR",
+    "Genre": "Western",
+    "Director": "Sergio Corbucci",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Screamers",
+    "Year": 1995,
+    "Body_Count": 62,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Horror",
+    "Director": "Christian Duguay",
+    "Length_Minutes": 108,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Last Man Standing",
+    "Year": 1996,
+    "Body_Count": 57,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Walter Hill",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "The Messenger: The Story of Joan of Arc",
+    "Year": 1999,
+    "Body_Count": 223,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Biography|Drama",
+    "Director": "Luc Besson",
+    "Length_Minutes": 148,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Behind Enemy Lines",
+    "Year": 2001,
+    "Body_Count": 96,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|War|Drama",
+    "Director": "John Moore",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "The Mummy Returns",
+    "Year": 2001,
+    "Body_Count": 137,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Stephen Sommers",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Death to Smoochy",
+    "Year": 2002,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Drama|Thriller",
+    "Director": "Danny DeVito",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Once Upon A Time In Mexico",
+    "Year": 2003,
+    "Body_Count": 99,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Robert Rodriguez",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "The Day After Tomorrow",
+    "Year": 2004,
+    "Body_Count": 130,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Roland Emmerich",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Assault On Precinct 13",
+    "Year": 2005,
+    "Body_Count": 21,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Crime|Thriller",
+    "Director": "Jean-Francois Richet",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Land of the Dead",
+    "Year": 2005,
+    "Body_Count": 217,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi",
+    "Director": "George A. Romero",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "The Number 23",
+    "Year": 2007,
+    "Body_Count": 10,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Mystery|Thriller",
+    "Director": "Joel Schumacher",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Beowulf",
+    "Year": 2007,
+    "Body_Count": 51,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Animation|Action|Adventure",
+    "Director": "Robert Zemeckis",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "TMNT",
+    "Year": 2007,
+    "Body_Count": 206,
+    "MPAA_Rating": "PG",
+    "Genre": "Animation|Action|Adventure",
+    "Director": "Kevin Munroe",
+    "Length_Minutes": 87,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Indiana Jones & the Kingdom of the Crystal Skull",
+    "Year": 2008,
+    "Body_Count": 76,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Ninja Assassin",
+    "Year": 2009,
+    "Body_Count": 137,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "James McTeigue",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Film": "Three the Hard Way",
+    "Year": 1974,
+    "Body_Count": 128,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Gordon Parks Jr.",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Under Siege",
+    "Year": 1992,
+    "Body_Count": 65,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Andrew Davis",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Hot Shots! Part Deux",
+    "Year": 1993,
+    "Body_Count": 114,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Comedy|War",
+    "Director": "Jim Abrahams",
+    "Length_Minutes": 86,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Air Force One",
+    "Year": 1997,
+    "Body_Count": 54,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Wolfgang Petersen",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Tomorrow Never Dies",
+    "Year": 1997,
+    "Body_Count": 55,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Crime",
+    "Director": "Roger Spottiswoode",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "8MM",
+    "Year": 1999,
+    "Body_Count": 1,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Mystery|Thriller",
+    "Director": "Joel Schumacher",
+    "Length_Minutes": 123,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "The Yards",
+    "Year": 2000,
+    "Body_Count": 2,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Romance|Thriller",
+    "Director": "James Gray",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Mean Machine",
+    "Year": 2001,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Drama|Sport",
+    "Director": "Barry Skolnick",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Swordfish",
+    "Year": 2001,
+    "Body_Count": 41,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Dominic Sena",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Star Trek: Nemesis",
+    "Year": 2002,
+    "Body_Count": 54,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "Stuart Baird",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Terminator 3: Rise of the Machines",
+    "Year": 2003,
+    "Body_Count": 14,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Jonathan Mostow",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Crime Spree",
+    "Year": 2003,
+    "Body_Count": 20,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime",
+    "Director": "Brad Mirman",
+    "Length_Minutes": 98,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Bad Boys II",
+    "Year": 2003,
+    "Body_Count": 63,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Michael Bay",
+    "Length_Minutes": 147,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "The Punisher",
+    "Year": 2004,
+    "Body_Count": 66,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Jonathan Hensleigh",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Mr. & Mrs. Smith",
+    "Year": 2005,
+    "Body_Count": 43,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Comedy|Romance",
+    "Director": "Doug Liman",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 6.4
+  },
+  {
+    "Film": "Christine",
+    "Year": 1983,
+    "Body_Count": 6,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Horror|Mystery|Thriller",
+    "Director": "John Carpenter",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Octopussy",
+    "Year": 1983,
+    "Body_Count": 46,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "John Glen",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Commando",
+    "Year": 1985,
+    "Body_Count": 88,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Mark L. Lester",
+    "Length_Minutes": 90,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Romeo is Bleeding",
+    "Year": 1993,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Peter Medak",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Demolition Man",
+    "Year": 1993,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Sci-Fi|Thriller",
+    "Director": "Marco Brambilla",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Crying Freeman",
+    "Year": 1995,
+    "Body_Count": 82,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Christophe Gans",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Another Day In Paradise",
+    "Year": 1997,
+    "Body_Count": 9,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Larry Clark",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Armageddon",
+    "Year": 1998,
+    "Body_Count": 16,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "Michael Bay",
+    "Length_Minutes": 151,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Star Wars I: Phantom Menace",
+    "Year": 1999,
+    "Body_Count": 34,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "George Lucas",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "The 13th Warrior",
+    "Year": 1999,
+    "Body_Count": 61,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "John McTiernan",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Zoolander",
+    "Year": 2001,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Comedy",
+    "Director": "Ben Stiller",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Wasabi",
+    "Year": 2001,
+    "Body_Count": 22,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Comedy|Crime|Thriller",
+    "Director": "Gerard Krawczyk",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Ritana",
+    "Year": 2002,
+    "Body_Count": 91,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Takashi Yamazaki",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Tears of the Sun",
+    "Year": 2003,
+    "Body_Count": 83,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Thriller",
+    "Director": "Antoine Fuqua",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Secret Window",
+    "Year": 2004,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Mystery|Thriller",
+    "Director": "David Koepp",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "War of the Worlds",
+    "Year": 2005,
+    "Body_Count": 52,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Documentary|History",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Severance",
+    "Year": 2006,
+    "Body_Count": 28,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Horror|Thriller",
+    "Director": "Christopher Smith",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Slither",
+    "Year": 2006,
+    "Body_Count": 102,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi",
+    "Director": "James Gunn",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "You Kill Me",
+    "Year": 2007,
+    "Body_Count": 10,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Romance|Thriller",
+    "Director": "John Dahl",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "The International",
+    "Year": 2009,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Mystery|Thriller",
+    "Director": "Tom Tykwer",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "The Expendables",
+    "Year": 2010,
+    "Body_Count": 203,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "Sylvester Stallone",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Olympus Has Fallen",
+    "Year": 2013,
+    "Body_Count": 156,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Antoine Fuqua",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Film": "Dune",
+    "Year": 1984,
+    "Body_Count": 186,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "David Lynch",
+    "Length_Minutes": 137,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "The Running Man",
+    "Year": 1987,
+    "Body_Count": 41,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Paul Michael Glaser",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Hamburger Hill",
+    "Year": 1987,
+    "Body_Count": 106,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|War|Action",
+    "Director": "John Irvin",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Hot Shots!",
+    "Year": 1991,
+    "Body_Count": 11,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Comedy|War",
+    "Director": "Jim Abrahams",
+    "Length_Minutes": 84,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Lethal Weapon 3",
+    "Year": 1992,
+    "Body_Count": 17,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Richard Donner",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Conspiracy Theory",
+    "Year": 1997,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Mystery|Romance|Thriller",
+    "Director": "Richard Donner",
+    "Length_Minutes": 135,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Lethal Weapon 4",
+    "Year": 1998,
+    "Body_Count": 30,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Richard Donner",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Summer of Sam",
+    "Year": 1999,
+    "Body_Count": 10,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Romance|Thriller",
+    "Director": "Spike Lee",
+    "Length_Minutes": 142,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Hannibal",
+    "Year": 2001,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Ridley Scott",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Dark Blue",
+    "Year": 2002,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Ron Shelton",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "K-19: The Widowmaker",
+    "Year": 2002,
+    "Body_Count": 10,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|History|Thriller|War",
+    "Director": "Kathryn Bigelow",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Ripley's Game",
+    "Year": 2002,
+    "Body_Count": 11,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery|Thriller",
+    "Director": "Liliana Cavani",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Blade II",
+    "Year": 2002,
+    "Body_Count": 98,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Sci-Fi|Thriller",
+    "Director": "Guillermo del Toro",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "The Rundown",
+    "Year": 2003,
+    "Body_Count": 46,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Comedy|Thriller",
+    "Director": "Peter Berg",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Spartan",
+    "Year": 2004,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Mystery|Thriller",
+    "Director": "David Mamet",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "The Chronicles of Riddick",
+    "Year": 2004,
+    "Body_Count": 187,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "David Twohy",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Hostage",
+    "Year": 2005,
+    "Body_Count": 16,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery|Thriller",
+    "Director": "Florent-Emilio Siri",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "The Lost City",
+    "Year": 2005,
+    "Body_Count": 41,
+    "MPAA_Rating": "R",
+    "Genre": "Drama",
+    "Director": "Andy Garcia",
+    "Length_Minutes": 144,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Smokin' Aces",
+    "Year": 2007,
+    "Body_Count": 47,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Joe Carnahan",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "30 Days of Night",
+    "Year": 2007,
+    "Body_Count": 67,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Thriller",
+    "Director": "David Slade",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "The Chronicles of Narnia: Prince Caspian",
+    "Year": 2008,
+    "Body_Count": 170,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Family",
+    "Director": "Andrew Adamson",
+    "Length_Minutes": 150,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "The Last House on the Left",
+    "Year": 2009,
+    "Body_Count": 6,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Dennis Iliadis",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 6.6
+  },
+  {
+    "Film": "Diamonds are Forever",
+    "Year": 1971,
+    "Body_Count": 29,
+    "MPAA_Rating": "GP",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "Guy Hamilton",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Man with the Golden Gun",
+    "Year": 1974,
+    "Body_Count": 6,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "Guy Hamilton",
+    "Length_Minutes": 125,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Creepshow",
+    "Year": 1982,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Horror",
+    "Director": "George A. Romero",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Once a Thief",
+    "Year": 1991,
+    "Body_Count": 59,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime",
+    "Director": "John Woo",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "To Die For",
+    "Year": 1995,
+    "Body_Count": 2,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Drama",
+    "Director": "Gus Van Sant",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Bad Boys",
+    "Year": 1995,
+    "Body_Count": 30,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Drama|Thriller",
+    "Director": "Michael Bay",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Long Kiss Goodnight",
+    "Year": 1996,
+    "Body_Count": 68,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Mystery|Thriller",
+    "Director": "Renny Harlin",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Mask of Zorro",
+    "Year": 1998,
+    "Body_Count": 26,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Comedy|Romance|Thriller|Western",
+    "Director": "Martin Campbell",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Way of the Gun",
+    "Year": 2000,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Christopher McQuarrie",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Signs",
+    "Year": 2002,
+    "Body_Count": 3,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Sci-Fi|Thriller",
+    "Director": "M. Night Shyamalan",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Star Wars II: Attack of the Clones",
+    "Year": 2002,
+    "Body_Count": 55,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "George Lucas",
+    "Length_Minutes": 142,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The New World",
+    "Year": 2005,
+    "Body_Count": 28,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Biography|Drama|History|Romance",
+    "Director": "Terrence Malick",
+    "Length_Minutes": 135,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Great Raid",
+    "Year": 2005,
+    "Body_Count": 103,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "John Dahl",
+    "Length_Minutes": 132,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Good Shepherd",
+    "Year": 2006,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|Thriller",
+    "Director": "Robert De Niro",
+    "Length_Minutes": 167,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "The Guardian",
+    "Year": 2006,
+    "Body_Count": 11,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Andrew Davis",
+    "Length_Minutes": 139,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Underworld: Evolution",
+    "Year": 2006,
+    "Body_Count": 75,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Fantasy|Sci-Fi|Thriller",
+    "Director": "Len Wiseman",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Walk Hard: The Dewey Cox Story",
+    "Year": 2007,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Drama|Music",
+    "Director": "Jake Kasdan",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Shoot 'Em Up",
+    "Year": 2007,
+    "Body_Count": 151,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Thriller",
+    "Director": "Michael Davis",
+    "Length_Minutes": 86,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Wanted",
+    "Year": 2008,
+    "Body_Count": 57,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Timur Bekmambetov",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "Machete",
+    "Year": 2010,
+    "Body_Count": 81,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Ethan Maniquis|Robert Rodriguez",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Film": "On Her Majesty's Secret Service",
+    "Year": 1969,
+    "Body_Count": 26,
+    "MPAA_Rating": "M",
+    "Genre": "Action|Adventure|Crime|Romance|Thriller",
+    "Director": "Peter R. Hunt",
+    "Length_Minutes": 142,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Sabata",
+    "Year": 1969,
+    "Body_Count": 90,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Western",
+    "Director": "Gianfranco Parolini",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Live and Let Die",
+    "Year": 1973,
+    "Body_Count": 11,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "Guy Hamilton",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "The Fog",
+    "Year": 1980,
+    "Body_Count": 6,
+    "MPAA_Rating": "R",
+    "Genre": "Horror",
+    "Director": "John Carpenter",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "For Your Eyes Only",
+    "Year": 1981,
+    "Body_Count": 42,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "John Glen",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Conan the Barbarian",
+    "Year": 1982,
+    "Body_Count": 114,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Fantasy|Adventure",
+    "Director": "John Milius",
+    "Length_Minutes": 129,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Hamlet",
+    "Year": 1990,
+    "Body_Count": 9,
+    "MPAA_Rating": "PG",
+    "Genre": "Drama|Romance",
+    "Director": "Franco Zeffirelli",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Things to Do in Denver When You're Dead",
+    "Year": 1995,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Gary Fleder",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "The Crucible",
+    "Year": 1996,
+    "Body_Count": 12,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|History",
+    "Director": "Nicholas Hytner",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Independence Day",
+    "Year": 1996,
+    "Body_Count": 48,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi",
+    "Director": "Roland Emmerich",
+    "Length_Minutes": 145,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Con Air",
+    "Year": 1997,
+    "Body_Count": 30,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Simon West",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "eXistenZ",
+    "Year": 1999,
+    "Body_Count": 11,
+    "MPAA_Rating": "R",
+    "Genre": "Sci-Fi",
+    "Director": "David Cronenberg",
+    "Length_Minutes": 97,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Gangster No. 1",
+    "Year": 2000,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Paul McGuigan",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Buffalo Soldiers",
+    "Year": 2001,
+    "Body_Count": 16,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Drama|Thriller|War",
+    "Director": "Gregor Jordan",
+    "Length_Minutes": 98,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "The Transporter",
+    "Year": 2002,
+    "Body_Count": 8,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Corey Yuen",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Hellboy",
+    "Year": 2004,
+    "Body_Count": 42,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "Guillermo del Toro",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Constantine",
+    "Year": 2005,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Fantasy|Horror",
+    "Director": "Francis Lawrence",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "The Island",
+    "Year": 2005,
+    "Body_Count": 12,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "Michael Bay",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Four Brothers",
+    "Year": 2005,
+    "Body_Count": 16,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Mystery|Thriller",
+    "Director": "John Singleton",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "The Devil's Rejects",
+    "Year": 2005,
+    "Body_Count": 30,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Horror",
+    "Director": "Rob Zombie",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Chronicles of Narnia: The Lion, the Witch & the Wardrobe",
+    "Year": 2005,
+    "Body_Count": 86,
+    "MPAA_Rating": "PG",
+    "Genre": "Adventure|Family|Fantasy",
+    "Director": "Andrew Adamson",
+    "Length_Minutes": 143,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Mission: Impossible III",
+    "Year": 2006,
+    "Body_Count": 23,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "J.J. Abrams",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Death Sentence",
+    "Year": 2007,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "James Wan",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+    "Year": 2007,
+    "Body_Count": 67,
+    "MPAA_Rating": "R",
+    "Genre": "Animation|Action|Adventure",
+    "Director": "Matt Maiellaro|Dave Willis",
+    "Length_Minutes": 86,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Appaloosa",
+    "Year": 2008,
+    "Body_Count": 10,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Western",
+    "Director": "Ed Harris",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Film": "Red Sun",
+    "Year": 1971,
+    "Body_Count": 92,
+    "MPAA_Rating": "PG",
+    "Genre": "Thriller|Western",
+    "Director": "Terence Young",
+    "Length_Minutes": 112,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Altered States",
+    "Year": 1980,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Fantasy|Horror|Sci-Fi|Thriller",
+    "Director": "Ken Russell",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "American Pop",
+    "Year": 1981,
+    "Body_Count": 61,
+    "MPAA_Rating": "R",
+    "Genre": "Animation|Drama|Music",
+    "Director": "Ralph Bakshi",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "UHF",
+    "Year": 1989,
+    "Body_Count": 36,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Comedy",
+    "Director": "Jay Levey",
+    "Length_Minutes": 97,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "King of New York",
+    "Year": 1990,
+    "Body_Count": 38,
+    "MPAA_Rating": "NC-17",
+    "Genre": "Crime|Thriller",
+    "Director": "Abel Ferrara",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "The Last Boy Scout",
+    "Year": 1991,
+    "Body_Count": 26,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Mystery|Thriller",
+    "Director": "Tony Scott",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Batman Returns",
+    "Year": 1992,
+    "Body_Count": 18,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Fantasy",
+    "Director": "Tim Burton",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Patriot Games",
+    "Year": 1992,
+    "Body_Count": 35,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Phillip Noyce",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Maverick",
+    "Year": 1994,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Comedy|Thriller|Western",
+    "Director": "Richard Donner",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Clear & Present Danger",
+    "Year": 1994,
+    "Body_Count": 41,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Drama|Thriller",
+    "Director": "Phillip Noyce",
+    "Length_Minutes": 141,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Stargate",
+    "Year": 1994,
+    "Body_Count": 51,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Roland Emmerich",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "The Mummy",
+    "Year": 1999,
+    "Body_Count": 155,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Stephen Sommers",
+    "Length_Minutes": 125,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Underworld",
+    "Year": 2003,
+    "Body_Count": 58,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Fantasy|Thriller",
+    "Director": "Len Wiseman",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Alpha Dog",
+    "Year": 2007,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Crime|Drama",
+    "Director": "Nick Cassavetes",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Disturbia",
+    "Year": 2007,
+    "Body_Count": 10,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Mystery|Thriller",
+    "Director": "D.J. Caruso",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "The Incredible Hulk",
+    "Year": 2008,
+    "Body_Count": 41,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Louis Leterrier",
+    "Length_Minutes": 112,
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Film": "Two Mules for Sister Sara",
+    "Year": 1970,
+    "Body_Count": 107,
+    "MPAA_Rating": "M",
+    "Genre": "Adventure|Comedy|War",
+    "Director": "Don Siegel",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "The Spy Who Loved Me",
+    "Year": 1977,
+    "Body_Count": 73,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "Lewis Gilbert",
+    "Length_Minutes": 125,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Mad Max",
+    "Year": 1979,
+    "Body_Count": 9,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "George Miller",
+    "Length_Minutes": 88,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "The Legend II",
+    "Year": 1993,
+    "Body_Count": 97,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Comedy",
+    "Director": "Corey Yuen",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Mission: Impossible",
+    "Year": 1996,
+    "Body_Count": 9,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "Brian De Palma",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Out of Sight",
+    "Year": 1998,
+    "Body_Count": 9,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Romance|Thriller",
+    "Director": "Steven Soderbergh",
+    "Length_Minutes": 123,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Payback",
+    "Year": 1999,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Brian Helgeland",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "The Patriot",
+    "Year": 2000,
+    "Body_Count": 123,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Roland Emmerich",
+    "Length_Minutes": 165,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Brotherhood of the Wolf",
+    "Year": 2001,
+    "Body_Count": 40,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|History",
+    "Director": "Christophe Gans",
+    "Length_Minutes": 142,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "We Were Soldiers",
+    "Year": 2002,
+    "Body_Count": 305,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|History|War",
+    "Director": "Randall Wallace",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Syriana",
+    "Year": 2005,
+    "Body_Count": 11,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Thriller",
+    "Director": "Stephen Gaghan",
+    "Length_Minutes": 128,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Crank",
+    "Year": 2006,
+    "Body_Count": 29,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Mark Neveldine|Brian Taylor",
+    "Length_Minutes": 88,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "28 Weeks Later",
+    "Year": 2007,
+    "Body_Count": 212,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi|Thriller",
+    "Director": "Juan Carlos Fresnadillo",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Pirates of the Caribbean: At World's End",
+    "Year": 2007,
+    "Body_Count": 252,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Gore Verbinski",
+    "Length_Minutes": 169,
+    "IMDB_Rating": 7
+  },
+  {
+    "Film": "Come Drink With Me",
+    "Year": 1966,
+    "Body_Count": 213,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Crime",
+    "Director": "King Hu",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Death Rides a Horse",
+    "Year": 1967,
+    "Body_Count": 54,
+    "MPAA_Rating": "R",
+    "Genre": "Western",
+    "Director": "Giulio Petroni",
+    "Length_Minutes": 114,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "The Abominable Dr. Phibes",
+    "Year": 1971,
+    "Body_Count": 10,
+    "MPAA_Rating": "GP",
+    "Genre": "Fantasy|Horror",
+    "Director": "Robert Fuest",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Day of the Dead",
+    "Year": 1985,
+    "Body_Count": 40,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Horror",
+    "Director": "George A. Romero",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Lethal Weapon 2",
+    "Year": 1989,
+    "Body_Count": 33,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Thriller",
+    "Director": "Richard Donner",
+    "Length_Minutes": 114,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Die Hard 2",
+    "Year": 1990,
+    "Body_Count": 37,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "Renny Harlin",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Strange Days",
+    "Year": 1995,
+    "Body_Count": 12,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery|Sci-Fi|Thriller",
+    "Director": "Kathryn Bigelow",
+    "Length_Minutes": 145,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Desperado",
+    "Year": 1995,
+    "Body_Count": 80,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Robert Rodriguez",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Starship Troopers",
+    "Year": 1997,
+    "Body_Count": 256,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi",
+    "Director": "Paul Verhoeven",
+    "Length_Minutes": 129,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Blade",
+    "Year": 1998,
+    "Body_Count": 111,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Fantasy|Horror",
+    "Director": "Stephen Norrington",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Confessions of a",
+    "Year": 2002,
+    "Body_Count": 50,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Comedy|Crime|Drama|Thriller",
+    "Director": "George Clooney",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "District B13",
+    "Year": 2004,
+    "Body_Count": 34,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Pierre Morel",
+    "Length_Minutes": 84,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "I, Robot",
+    "Year": 2004,
+    "Body_Count": 176,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Mystery|Sci-Fi",
+    "Director": "Alex Proyas",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Troy",
+    "Year": 2004,
+    "Body_Count": 572,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Drama",
+    "Director": "Wolfgang Petersen",
+    "Length_Minutes": 163,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Kingdom of Heaven",
+    "Year": 2005,
+    "Body_Count": 610,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama|History|War",
+    "Director": "Ridley Scott",
+    "Length_Minutes": 144,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Flags of Our Fathers",
+    "Year": 2006,
+    "Body_Count": 93,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|War",
+    "Director": "Clint Eastwood",
+    "Length_Minutes": 132,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "The Lookout",
+    "Year": 2007,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Scott Frank",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Grindhouse: Death Proof",
+    "Year": 2007,
+    "Body_Count": 8,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Thriller",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Charlie Wilson's War",
+    "Year": 2007,
+    "Body_Count": 22,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Comedy|Drama|History",
+    "Director": "Mike Nichols",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Shooter",
+    "Year": 2007,
+    "Body_Count": 56,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama",
+    "Director": "Antoine Fuqua",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "I Am Legend",
+    "Year": 2007,
+    "Body_Count": 71,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Sci-Fi|Thriller",
+    "Director": "Francis Lawrence",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Transformers",
+    "Year": 2007,
+    "Body_Count": 103,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Michael Bay",
+    "Length_Minutes": 144,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Cloverfield",
+    "Year": 2008,
+    "Body_Count": 27,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Matt Reeves",
+    "Length_Minutes": 85,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "Rambo",
+    "Year": 2008,
+    "Body_Count": 247,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller|War",
+    "Director": "Sylvester Stallone",
+    "Length_Minutes": 92,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Film": "El Cid",
+    "Year": 1961,
+    "Body_Count": 160,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Adventure|Biography|Drama",
+    "Director": "Anthony Mann",
+    "Length_Minutes": 182,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Waterloo",
+    "Year": 1970,
+    "Body_Count": 210,
+    "MPAA_Rating": "G",
+    "Genre": "Action|Drama|History",
+    "Director": "Sergey Bondarchuk",
+    "Length_Minutes": 123,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Keoma",
+    "Year": 1976,
+    "Body_Count": 76,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Drama|Western",
+    "Director": "Enzo G. Castellari",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Escape From New York",
+    "Year": 1981,
+    "Body_Count": 28,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi",
+    "Director": "John Carpenter",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Big Trouble In Little China",
+    "Year": 1986,
+    "Body_Count": 46,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Comedy|Fantasy",
+    "Director": "John Carpenter",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Transformers: The Movie",
+    "Year": 1986,
+    "Body_Count": 47,
+    "MPAA_Rating": "PG",
+    "Genre": "Animation|Action|Adventure|Family|Sci-Fi",
+    "Director": "Nelson Shin",
+    "Length_Minutes": 84,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "The Legend",
+    "Year": 1993,
+    "Body_Count": 98,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|History",
+    "Director": "Corey Yuen",
+    "Length_Minutes": 100,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Speed",
+    "Year": 1994,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Jan de Bont",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "True Lies",
+    "Year": 1994,
+    "Body_Count": 71,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "James Cameron",
+    "Length_Minutes": 141,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Natural Born Killers",
+    "Year": 1994,
+    "Body_Count": 98,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Oliver Stone",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "GoldenEye",
+    "Year": 1995,
+    "Body_Count": 57,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Martin Campbell",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "From Dusk Till Dawn",
+    "Year": 1996,
+    "Body_Count": 122,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Horror",
+    "Director": "Robert Rodriguez",
+    "Length_Minutes": 108,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Ronin",
+    "Year": 1998,
+    "Body_Count": 34,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Crime|Thriller",
+    "Director": "John Frankenheimer",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Galaxy Quest",
+    "Year": 1999,
+    "Body_Count": 32,
+    "MPAA_Rating": "PG",
+    "Genre": "Adventure|Comedy|Sci-Fi",
+    "Director": "Dean Parisot",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Unbreakable",
+    "Year": 2000,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Mystery|Sci-Fi|Thriller",
+    "Director": "M. Night Shyamalan",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Team America: World Police",
+    "Year": 2004,
+    "Body_Count": 79,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Comedy|Music",
+    "Director": "Trey Parker",
+    "Length_Minutes": 98,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "The Mist",
+    "Year": 2007,
+    "Body_Count": 46,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi|Thriller",
+    "Director": "Frank Darabont",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "Grindhouse: Planet Terror",
+    "Year": 2007,
+    "Body_Count": 281,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Horror",
+    "Director": "Robert Rodriguez",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Film": "The Yakuza",
+    "Year": 1974,
+    "Body_Count": 31,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Sydney Pollack",
+    "Length_Minutes": 123,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "The Big Red One",
+    "Year": 1980,
+    "Body_Count": 338,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Samuel Fuller",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "A Better Tomorrow II",
+    "Year": 1987,
+    "Body_Count": 199,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "Face/Off",
+    "Year": 1997,
+    "Body_Count": 56,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Sci-Fi|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "24 Hour Party People",
+    "Year": 2002,
+    "Body_Count": 7,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Comedy|Drama|Music",
+    "Director": "Michael Winterbottom",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "The Phantom of the Opera",
+    "Year": 2004,
+    "Body_Count": 3,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Musical|Romance",
+    "Director": "Joel Schumacher",
+    "Length_Minutes": 143,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "King Kong",
+    "Year": 2005,
+    "Body_Count": 23,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama|Romance",
+    "Director": "Peter Jackson",
+    "Length_Minutes": 187,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "Pirates of the Caribbean: Dead Man's Chest",
+    "Year": 2006,
+    "Body_Count": 90,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Gore Verbinski",
+    "Length_Minutes": 151,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "Sunshine",
+    "Year": 2007,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Sci-Fi|Thriller",
+    "Director": "Danny Boyle",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "Mongol: The Rise of Genghis Khan",
+    "Year": 2007,
+    "Body_Count": 200,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Drama|History",
+    "Director": "Sergey Bodrov",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "The Bank Job",
+    "Year": 2008,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Roger Donaldson",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "RocknRolla",
+    "Year": 2008,
+    "Body_Count": 11,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Guy Ritchie",
+    "Length_Minutes": 114,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "Black Dynamite",
+    "Year": 2009,
+    "Body_Count": 66,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy",
+    "Director": "Scott Sanders",
+    "Length_Minutes": 84,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Film": "Assault On Precinct 13",
+    "Year": 1976,
+    "Body_Count": 39,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "John Carpenter",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "A Bridge Too Far",
+    "Year": 1977,
+    "Body_Count": 243,
+    "MPAA_Rating": "PG",
+    "Genre": "Drama|History|War",
+    "Director": "Richard Attenborough",
+    "Length_Minutes": 175,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Excalibur",
+    "Year": 1981,
+    "Body_Count": 168,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Fantasy",
+    "Director": "John Boorman",
+    "Length_Minutes": 140,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Dracula",
+    "Year": 1992,
+    "Body_Count": 94,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Fantasy|Horror",
+    "Director": "Francis Ford Coppola",
+    "Length_Minutes": 128,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "The Rock",
+    "Year": 1996,
+    "Body_Count": 24,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "Michael Bay",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Mulan",
+    "Year": 1998,
+    "Body_Count": 43,
+    "MPAA_Rating": "G",
+    "Genre": "Animation|Adventure|Family",
+    "Director": "Tony Bancroft|Barry Cook",
+    "Length_Minutes": 88,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Sleepy Hollow",
+    "Year": 1999,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Mystery",
+    "Director": "Tim Burton",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Master and Commander: The Far Side of the World",
+    "Year": 2003,
+    "Body_Count": 122,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Peter Weir",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Layer Cake",
+    "Year": 2004,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Matthew Vaughn",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Dawn of the Dead",
+    "Year": 2004,
+    "Body_Count": 131,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror|Sci-Fi|Thriller",
+    "Director": "Zack Snyder",
+    "Length_Minutes": 101,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Running Scared",
+    "Year": 2006,
+    "Body_Count": 22,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Wayne Kramer",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Mr. Brooks",
+    "Year": 2007,
+    "Body_Count": 9,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery|Thriller",
+    "Director": "Bruce A. Evans",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Film": "Companeros",
+    "Year": 1970,
+    "Body_Count": 133,
+    "MPAA_Rating": "R",
+    "Genre": "Western|Comedy",
+    "Director": "Sergio Corbucci",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "El Topo",
+    "Year": 1970,
+    "Body_Count": 202,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Western",
+    "Director": "Alejandro Jodorowsky",
+    "Length_Minutes": 125,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Lone Wolf and Cub: White Heaven in Hell",
+    "Year": 1974,
+    "Body_Count": 169,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Drama|Fantasy|History",
+    "Director": "Yoshiyuki Kuroda",
+    "Length_Minutes": 83,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Cross of Iron",
+    "Year": 1977,
+    "Body_Count": 147,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Sam Peckinpah",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Gallipoli",
+    "Year": 1981,
+    "Body_Count": 85,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Drama|History",
+    "Director": "Peter Weir",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Secret of NIMH",
+    "Year": 1982,
+    "Body_Count": 12,
+    "MPAA_Rating": "G",
+    "Genre": "Animation|Drama|Family|Fantasy|Sci-Fi",
+    "Director": "Don Bluth",
+    "Length_Minutes": 82,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "A Nightmare on Elm Street",
+    "Year": 1984,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Horror",
+    "Director": "Wes Craven",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "A Better Tomorrow",
+    "Year": 1986,
+    "Body_Count": 65,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "RoboCop",
+    "Year": 1987,
+    "Body_Count": 34,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Sci-Fi",
+    "Director": "Paul Verhoeven",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Total Recall",
+    "Year": 1990,
+    "Body_Count": 77,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Paul Verhoeven",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Star Trek: First Contact",
+    "Year": 1996,
+    "Body_Count": 63,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Jonathan Frakes",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Jackie Brown",
+    "Year": 1997,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 154,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Enemy at the Gates",
+    "Year": 2001,
+    "Body_Count": 174,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|Thriller",
+    "Director": "Jean-Jacques Annaud",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Gangs of New York",
+    "Year": 2002,
+    "Body_Count": 109,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|History",
+    "Director": "Martin Scorsese",
+    "Length_Minutes": 167,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "A History of Violence",
+    "Year": 2005,
+    "Body_Count": 13,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "David Cronenberg",
+    "Length_Minutes": 96,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "The Constant Gardener",
+    "Year": 2005,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Mystery|Thriller",
+    "Director": "Fernando Meirelles",
+    "Length_Minutes": 129,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "Year": 2007,
+    "Body_Count": 12,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Horror|Musical|Thriller",
+    "Director": "Tim Burton",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Film": "Samurai I: Musashi Miyamoto",
+    "Year": 1954,
+    "Body_Count": 50,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Adventure|Biography",
+    "Director": "Hiroshi Inagaki",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Samurai Assassin",
+    "Year": 1965,
+    "Body_Count": 94,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Kihachi Okamoto",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Where Eagles Dare",
+    "Year": 1968,
+    "Body_Count": 100,
+    "MPAA_Rating": "M",
+    "Genre": "Action|Adventure|War",
+    "Director": "Brian G. Hutton",
+    "Length_Minutes": 158,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Kelly's Heroes",
+    "Year": 1970,
+    "Body_Count": 139,
+    "MPAA_Rating": "GP",
+    "Genre": "Action|Adventure|Comedy|War",
+    "Director": "Brian G. Hutton",
+    "Length_Minutes": 144,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Mad Max 2: Road Warrior",
+    "Year": 1981,
+    "Body_Count": 44,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "George Miller",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Indiana Jones and the Temple of Doom",
+    "Year": 1984,
+    "Body_Count": 41,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Lethal Weapon",
+    "Year": 1987,
+    "Body_Count": 26,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Richard Donner",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Batman",
+    "Year": 1989,
+    "Body_Count": 56,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Thriller",
+    "Director": "Tim Burton",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "The Hunt for Red October",
+    "Year": 1990,
+    "Body_Count": 7,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Thriller",
+    "Director": "John McTiernan",
+    "Length_Minutes": 134,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Bullet in the Head",
+    "Year": 1990,
+    "Body_Count": 214,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Braindead",
+    "Year": 1992,
+    "Body_Count": 72,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Horror",
+    "Director": "Peter Jackson",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "The Evil Dead III:",
+    "Year": 1993,
+    "Body_Count": 107,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Fantasy|Horror",
+    "Director": "Sam Raimi",
+    "Length_Minutes": 81,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "The Evil Dead III: Army of Darkness",
+    "Year": 1993,
+    "Body_Count": 107,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Fantasy|Horror",
+    "Director": "Sam Raimi",
+    "Length_Minutes": 81,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "The Crow",
+    "Year": 1994,
+    "Body_Count": 35,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Fantasy",
+    "Director": "Alex Proyas",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Die Hard: With a Vengeance",
+    "Year": 1995,
+    "Body_Count": 26,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "John McTiernan",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "The Fifth Element",
+    "Year": 1997,
+    "Body_Count": 80,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Luc Besson",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Titanic",
+    "Year": 1997,
+    "Body_Count": 307,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Romance",
+    "Director": "James Cameron",
+    "Length_Minutes": 194,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "The Thin Red Line",
+    "Year": 1998,
+    "Body_Count": 167,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|War",
+    "Director": "Terrence Malick",
+    "Length_Minutes": 170,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "American Psycho",
+    "Year": 2000,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Mary Harron",
+    "Length_Minutes": 102,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "28 Days Later",
+    "Year": 2002,
+    "Body_Count": 53,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi|Thriller",
+    "Director": "Danny Boyle",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Equilibrium",
+    "Year": 2002,
+    "Body_Count": 236,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Sci-Fi|Thriller",
+    "Director": "Kurt Wimmer",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Zatoichi",
+    "Year": 2003,
+    "Body_Count": 81,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime",
+    "Director": "Takeshi Kitano",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Collateral",
+    "Year": 2004,
+    "Body_Count": 17,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Michael Mann",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Harry Potter & the Goblet of Fire",
+    "Year": 2005,
+    "Body_Count": 3,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Adventure|Family|Fantasy|Mystery",
+    "Director": "Mike Newell",
+    "Length_Minutes": 157,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Munich",
+    "Year": 2005,
+    "Body_Count": 49,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|Thriller",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 164,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Fearless",
+    "Year": 2006,
+    "Body_Count": 5,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Biography|Drama|Sport",
+    "Director": "Ronny Yu",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Inside Man",
+    "Year": 2006,
+    "Body_Count": 13,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Spike Lee",
+    "Length_Minutes": 129,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Milk",
+    "Year": 2008,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Drama|History",
+    "Director": "Gus Van Sant",
+    "Length_Minutes": 128,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "Watchmen",
+    "Year": 2009,
+    "Body_Count": 77,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|Mystery",
+    "Director": "Zack Snyder",
+    "Length_Minutes": 162,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Film": "A Fistful of Dynamite",
+    "Year": 1971,
+    "Body_Count": 471,
+    "MPAA_Rating": "PG",
+    "Genre": "Adventure|Western",
+    "Director": "Sergio Leone",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Barton Fink",
+    "Year": 1991,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Mystery",
+    "Director": "Joel Coen|Ethan Coen",
+    "Length_Minutes": 116,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Fear and Loathing in Las Vegas",
+    "Year": 1998,
+    "Body_Count": 10,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Comedy",
+    "Director": "Terry Gilliam",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Black Hawk Down",
+    "Year": 2001,
+    "Body_Count": 135,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|War",
+    "Director": "Ridley Scott",
+    "Length_Minutes": 144,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Minority Report",
+    "Year": 2002,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Mystery|Sci-Fi|Thriller",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 145,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "The Count of Monte Cristo",
+    "Year": 2002,
+    "Body_Count": 5,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama|History|Romance|Thriller",
+    "Director": "Kevin Reynolds",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "The Last Samurai",
+    "Year": 2003,
+    "Body_Count": 558,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|History|War",
+    "Director": "Edward Zwick",
+    "Length_Minutes": 154,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "The Bourne Supremacy",
+    "Year": 2004,
+    "Body_Count": 9,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Paul Greengrass",
+    "Length_Minutes": 108,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Kung Fu Hustle",
+    "Year": 2004,
+    "Body_Count": 20,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Fantasy",
+    "Director": "Stephen Chow",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Kiss Kiss Bang Bang",
+    "Year": 2005,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy|Crime|Mystery",
+    "Director": "Shane Black",
+    "Length_Minutes": 103,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Star Wars III: Revenge of the Sith",
+    "Year": 2005,
+    "Body_Count": 115,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "George Lucas",
+    "Length_Minutes": 140,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Lucky Number Slevin",
+    "Year": 2006,
+    "Body_Count": 19,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery",
+    "Director": "Paul McGuigan",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Zodiac",
+    "Year": 2007,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Mystery|Thriller",
+    "Director": "David Fincher",
+    "Length_Minutes": 157,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Stardust",
+    "Year": 2007,
+    "Body_Count": 22,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Adventure|Family|Fantasy|Romance",
+    "Director": "Matthew Vaughn",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Grindhouse: Double Feature",
+    "Year": 2007,
+    "Body_Count": 310,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Horror|Thriller",
+    "Director": "Robert Rodriguez|Eli Roth|Quentin Tarantino|Edgar Wright|Rob Zombie",
+    "Length_Minutes": 191,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": 300,
+    "Year": 2007,
+    "Body_Count": 600,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Fantasy|History|War",
+    "Director": "Zack Snyder",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Zombieland",
+    "Year": 2009,
+    "Body_Count": 109,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Horror",
+    "Director": "Ruben Fleischer",
+    "Length_Minutes": 88,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Film": "Zulu",
+    "Year": 1964,
+    "Body_Count": 140,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Drama|History|War",
+    "Director": "Cy Endfield",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "The Great Silence",
+    "Year": 1968,
+    "Body_Count": 42,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Western",
+    "Director": "Sergio Corbucci",
+    "Length_Minutes": 105,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "The French Connection",
+    "Year": 1971,
+    "Body_Count": 12,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "William Friedkin",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Lone Wolf and Cub: Baby Cart to Hades",
+    "Year": 1972,
+    "Body_Count": 102,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama",
+    "Director": "Kenji Misumi",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
+    "Year": 1973,
+    "Body_Count": 90,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Drama|Thriller",
+    "Director": "Kenji Misumi",
+    "Length_Minutes": 89,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Evil Dead II: Dead by Dawn",
+    "Year": 1987,
+    "Body_Count": 8,
+    "MPAA_Rating": "NC-17",
+    "Genre": "Comedy|Horror",
+    "Director": "Sam Raimi",
+    "Length_Minutes": 84,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Predator",
+    "Year": 1987,
+    "Body_Count": 64,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "John McTiernan",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "The Last of the Mohicans",
+    "Year": 1992,
+    "Body_Count": 172,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Drama|History|Romance|War",
+    "Director": "Michael Mann",
+    "Length_Minutes": 112,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "The Fugitive",
+    "Year": 1993,
+    "Body_Count": 5,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Crime|Mystery|Thriller",
+    "Director": "Andrew Davis",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Tombstone",
+    "Year": 1993,
+    "Body_Count": 55,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|History|Romance|Western",
+    "Director": "George P. Cosmatos|Kevin Jarre",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "The Boondock Saints",
+    "Year": 1999,
+    "Body_Count": 33,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Troy Duffy",
+    "Length_Minutes": 108,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Apocalypto",
+    "Year": 2006,
+    "Body_Count": 114,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama|Thriller",
+    "Director": "Mel Gibson",
+    "Length_Minutes": 139,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "American Gangster",
+    "Year": 2007,
+    "Body_Count": 15,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Crime|Drama",
+    "Director": "Ridley Scott",
+    "Length_Minutes": 157,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Atonement",
+    "Year": 2007,
+    "Body_Count": 34,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Mystery|Romance|War",
+    "Director": "Joe Wright",
+    "Length_Minutes": 123,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "3:10 To Yuma",
+    "Year": 2007,
+    "Body_Count": 45,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Crime|Drama|Western",
+    "Director": "James Mangold",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Kick-Ass",
+    "Year": 2010,
+    "Body_Count": 64,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy",
+    "Director": "Matthew Vaughn",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Film": "Chimes at Midnight",
+    "Year": 1965,
+    "Body_Count": 148,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Comedy|Drama|War",
+    "Director": "Orson Welles",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Lone Wolf and Cub: Sword of Vengeance",
+    "Year": 1972,
+    "Body_Count": 71,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Drama",
+    "Director": "Kenji Misumi",
+    "Length_Minutes": 83,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "The Outlaw Josey Wales",
+    "Year": 1976,
+    "Body_Count": 120,
+    "MPAA_Rating": "PG",
+    "Genre": "Western",
+    "Director": "Clint Eastwood",
+    "Length_Minutes": 135,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "The Killer",
+    "Year": 1989,
+    "Body_Count": 149,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Glory",
+    "Year": 1989,
+    "Body_Count": 258,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|War",
+    "Director": "Edward Zwick",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Hard Boiled",
+    "Year": 1992,
+    "Body_Count": 307,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "John Woo",
+    "Length_Minutes": 128,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "True Romance",
+    "Year": 1993,
+    "Body_Count": 21,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Thriller",
+    "Director": "Tony Scott",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Crouching Tiger, Hidden Dragon",
+    "Year": 2000,
+    "Body_Count": 14,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Drama|Romance",
+    "Director": "Ang Lee",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "The Bourne Identity",
+    "Year": 2002,
+    "Body_Count": 8,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Mystery|Thriller",
+    "Director": "Doug Liman",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Hero",
+    "Year": 2002,
+    "Body_Count": 152,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Drama|History",
+    "Director": "Yimou Zhang",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Serenity",
+    "Year": 2005,
+    "Body_Count": 74,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Director": "Joss Whedon",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Casino Royale",
+    "Year": 2006,
+    "Body_Count": 54,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Martin Campbell",
+    "Length_Minutes": 144,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Children of Men",
+    "Year": 2006,
+    "Body_Count": 77,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Drama|Sci-Fi|Thriller",
+    "Director": "Alfonso Cuaron",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Letters from Iwo Jima",
+    "Year": 2006,
+    "Body_Count": 84,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|History|War",
+    "Director": "Clint Eastwood",
+    "Length_Minutes": 141,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Hot Fuzz",
+    "Year": 2007,
+    "Body_Count": 29,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Comedy",
+    "Director": "Edgar Wright",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "In Bruges",
+    "Year": 2008,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Crime|Drama|Thriller",
+    "Director": "Martin McDonagh",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Taken",
+    "Year": 2008,
+    "Body_Count": 35,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Pierre Morel",
+    "Length_Minutes": 93,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "Iron Man",
+    "Year": 2008,
+    "Body_Count": 57,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Jon Favreau",
+    "Length_Minutes": 126,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Film": "A Fistful of Dollars",
+    "Year": 1964,
+    "Body_Count": 109,
+    "MPAA_Rating": "M",
+    "Genre": "Western",
+    "Director": "Sergio Leone",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "The Sword of Doom",
+    "Year": 1966,
+    "Body_Count": 119,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Drama",
+    "Director": "Kihachi Okamoto",
+    "Length_Minutes": 119,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "The Wild Bunch",
+    "Year": 1969,
+    "Body_Count": 145,
+    "MPAA_Rating": "R",
+    "Genre": "Western",
+    "Director": "Sam Peckinpah",
+    "Length_Minutes": 145,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Patton",
+    "Year": 1970,
+    "Body_Count": 199,
+    "MPAA_Rating": "GP",
+    "Genre": "Biography|Drama|History",
+    "Director": "Franklin J. Schaffner",
+    "Length_Minutes": 172,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Dawn of the Dead",
+    "Year": 1978,
+    "Body_Count": 175,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Horror",
+    "Director": "George A. Romero",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Brazil",
+    "Year": 1985,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Fantasy|Sci-Fi",
+    "Director": "Terry Gilliam",
+    "Length_Minutes": 132,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Akira",
+    "Year": 1988,
+    "Body_Count": 119,
+    "MPAA_Rating": "R",
+    "Genre": "Animation|Horror|Sci-Fi",
+    "Director": "Katsuhiro Ohtomo",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Kill Bill: Vol. 2",
+    "Year": 2004,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 137,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "The Incredibles",
+    "Year": 2004,
+    "Body_Count": 16,
+    "MPAA_Rating": "PG",
+    "Genre": "Animation|Action|Adventure|Family",
+    "Director": "Brad Bird",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Shaun of the Dead",
+    "Year": 2004,
+    "Body_Count": 60,
+    "MPAA_Rating": "R",
+    "Genre": "Comedy|Horror",
+    "Director": "Edgar Wright",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Blood Diamond",
+    "Year": 2006,
+    "Body_Count": 187,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Drama|Thriller",
+    "Director": "Edward Zwick",
+    "Length_Minutes": 143,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Slumdog Millionaire",
+    "Year": 2008,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Romance|Thriller",
+    "Director": "Danny Boyle|Loveleen Tandan",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "District 9",
+    "Year": 2009,
+    "Body_Count": 71,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "Neill Blomkamp",
+    "Length_Minutes": 112,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "Shutter Island",
+    "Year": 2010,
+    "Body_Count": 171,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Mystery|Thriller",
+    "Director": "Martin Scorsese",
+    "Length_Minutes": 138,
+    "IMDB_Rating": 8
+  },
+  {
+    "Film": "A Christmas Story",
+    "Year": 1983,
+    "Body_Count": 4,
+    "MPAA_Rating": "PG",
+    "Genre": "Comedy|Family",
+    "Director": "Bob Clark",
+    "Length_Minutes": 94,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "Terminator",
+    "Year": 1984,
+    "Body_Count": 34,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi",
+    "Director": "James Cameron",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "Donnie Darko",
+    "Year": 2001,
+    "Body_Count": 3,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Mystery|Sci-Fi",
+    "Director": "Richard Kelly",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "Pirates of the Caribbean: Curse of the Black Pearl",
+    "Year": 2003,
+    "Body_Count": 42,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Gore Verbinski",
+    "Length_Minutes": 143,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "Kill Bill: Vol. 1",
+    "Year": 2003,
+    "Body_Count": 95,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 111,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "Tae Guk Gi: The Brotherhood of War",
+    "Year": 2004,
+    "Body_Count": 590,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Je-kyu Kang",
+    "Length_Minutes": 140,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "There Will Be Blood",
+    "Year": 2007,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Drama",
+    "Director": "Paul Thomas Anderson",
+    "Length_Minutes": 158,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "The Bourne Ultimatum",
+    "Year": 2007,
+    "Body_Count": 5,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Thriller",
+    "Director": "Paul Greengrass",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "No Country for Old Men",
+    "Year": 2007,
+    "Body_Count": 22,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Ethan Coen|Joel Coen",
+    "Length_Minutes": 122,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Film": "Blade Runner",
+    "Year": 1982,
+    "Body_Count": 5,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Sci-Fi|Thriller",
+    "Director": "Ridley Scott",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "The Thing",
+    "Year": 1982,
+    "Body_Count": 21,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Mystery|Sci-Fi|Thriller",
+    "Director": "John Carpenter",
+    "Length_Minutes": 109,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "Come and See",
+    "Year": 1985,
+    "Body_Count": 75,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Drama|History|War",
+    "Director": "Elem Klimov",
+    "Length_Minutes": 140,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "Platoon",
+    "Year": 1986,
+    "Body_Count": 160,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Oliver Stone",
+    "Length_Minutes": 120,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "Casino",
+    "Year": 1995,
+    "Body_Count": 25,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Crime|Drama",
+    "Director": "Martin Scorsese",
+    "Length_Minutes": 178,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "Lock, Stock and Two Smoking Barrels",
+    "Year": 1998,
+    "Body_Count": 16,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Thriller",
+    "Director": "Guy Ritchie",
+    "Length_Minutes": 107,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "Sin City",
+    "Year": 2005,
+    "Body_Count": 53,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Thriller",
+    "Director": "Frank Miller|Robert Rodriguez|Quentin Tarantino",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Film": "For a Few Dollars More",
+    "Year": 1965,
+    "Body_Count": 42,
+    "MPAA_Rating": "M",
+    "Genre": "Western",
+    "Director": "Sergio Leone",
+    "Length_Minutes": 132,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Scarface",
+    "Year": 1983,
+    "Body_Count": 44,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Brian De Palma",
+    "Length_Minutes": 170,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Ran",
+    "Year": 1985,
+    "Body_Count": 182,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Akira Kurosawa",
+    "Length_Minutes": 162,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Die Hard",
+    "Year": 1988,
+    "Body_Count": 20,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Thriller",
+    "Director": "John McTiernan",
+    "Length_Minutes": 131,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Indiana Jones and the Last Crusade",
+    "Year": 1989,
+    "Body_Count": 48,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 127,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Heat",
+    "Year": 1995,
+    "Body_Count": 18,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Michael Mann",
+    "Length_Minutes": 170,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Snatch",
+    "Year": 2000,
+    "Body_Count": 26,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Thriller",
+    "Director": "Guy Ritchie",
+    "Length_Minutes": 104,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Batman Begins",
+    "Year": 2005,
+    "Body_Count": 18,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Crime|Drama",
+    "Director": "Christopher Nolan",
+    "Length_Minutes": 140,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Pan's Labyrinth",
+    "Year": 2006,
+    "Body_Count": 30,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|Fantasy|War",
+    "Director": "Guillermo del Toro",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Inglourious Basterds",
+    "Year": 2009,
+    "Body_Count": 59,
+    "MPAA_Rating": "R",
+    "Genre": "Adventure|Drama|War",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 153,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Film": "Yojimbo",
+    "Year": 1961,
+    "Body_Count": 61,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Adventure",
+    "Director": "Akira Kurosawa",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Lawrence of Arabia",
+    "Year": 1962,
+    "Body_Count": 180,
+    "MPAA_Rating": "PG",
+    "Genre": "Adventure|Biography|Drama",
+    "Director": "David Lean",
+    "Length_Minutes": 216,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "A Clockwork Orange",
+    "Year": 1971,
+    "Body_Count": 7,
+    "MPAA_Rating": "NC-17",
+    "Genre": "Crime|Drama|Sci-Fi",
+    "Director": "Stanley Kubrick",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Monty Python and the Holy Grail",
+    "Year": 1975,
+    "Body_Count": 48,
+    "MPAA_Rating": "PG",
+    "Genre": "Adventure|Comedy|Fantasy",
+    "Director": "Terry Gilliam|Terry Jones",
+    "Length_Minutes": 91,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Taxi Driver",
+    "Year": 1976,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Martin Scorsese",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Das Boot",
+    "Year": 1981,
+    "Body_Count": 49,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Drama",
+    "Director": "Wolfgang Petersen",
+    "Length_Minutes": 149,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Star Wars VI: Return of the Jedi",
+    "Year": 1983,
+    "Body_Count": 69,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "Richard Marquand",
+    "Length_Minutes": 134,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Reservoir Dogs",
+    "Year": 1992,
+    "Body_Count": 12,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Thriller",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 99,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Braveheart",
+    "Year": 1995,
+    "Body_Count": 184,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Biography|Drama|History|War",
+    "Director": "Mel Gibson",
+    "Length_Minutes": 177,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Film": "Dr. Strangelove",
+    "Year": 1964,
+    "Body_Count": 33,
+    "MPAA_Rating": "PG",
+    "Genre": "Comedy|Sci-Fi|War",
+    "Director": "Stanley Kubrick",
+    "Length_Minutes": 95,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "Alien",
+    "Year": 1979,
+    "Body_Count": 1,
+    "MPAA_Rating": "R",
+    "Genre": "Horror|Sci-Fi",
+    "Director": "Ridley Scott",
+    "Length_Minutes": 117,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "Apocalypse Now",
+    "Year": 1979,
+    "Body_Count": 62,
+    "MPAA_Rating": "R",
+    "Genre": "Drama|War",
+    "Director": "Francis Ford Coppola",
+    "Length_Minutes": 153,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "Aliens",
+    "Year": 1986,
+    "Body_Count": 68,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "James Cameron",
+    "Length_Minutes": 137,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "Terminator 2: Judgment Day",
+    "Year": 1991,
+    "Body_Count": 23,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Sci-Fi|Thriller",
+    "Director": "James Cameron",
+    "Length_Minutes": 137,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "The Pianist",
+    "Year": 2002,
+    "Body_Count": 70,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Drama|History",
+    "Director": "Roman Polanski",
+    "Length_Minutes": 150,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "The Prestige",
+    "Year": 2006,
+    "Body_Count": 7,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Drama|Mystery|Thriller",
+    "Director": "Christopher Nolan",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "The Departed",
+    "Year": 2006,
+    "Body_Count": 21,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Martin Scorsese",
+    "Length_Minutes": 151,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Film": "Raiders of the Lost Ark",
+    "Year": 1981,
+    "Body_Count": 84,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 115,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Film": "The Silence of the Lambs",
+    "Year": 1991,
+    "Body_Count": 8,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Jonathan Demme",
+    "Length_Minutes": 118,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Film": "Leon",
+    "Year": 1994,
+    "Body_Count": 33,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Luc Besson",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Film": "Leon",
+    "Year": 1994,
+    "Body_Count": 33,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Luc Besson",
+    "Length_Minutes": 110,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Film": "Saving Private Ryan",
+    "Year": 1998,
+    "Body_Count": 255,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Drama|War",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 169,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Film": "Memento",
+    "Year": 2000,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Mystery|Thriller",
+    "Director": "Christopher Nolan",
+    "Length_Minutes": 113,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Film": "Star Wars IV: A New Hope",
+    "Year": 1977,
+    "Body_Count": 75,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Fantasy|Sci-Fi",
+    "Director": "George Lucas",
+    "Length_Minutes": 121,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Film": "The Usual Suspects",
+    "Year": 1995,
+    "Body_Count": 39,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Mystery|Thriller",
+    "Director": "Bryan Singer",
+    "Length_Minutes": 106,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Film": "The Matrix",
+    "Year": 1999,
+    "Body_Count": 39,
+    "MPAA_Rating": "R",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Andy Wachowski|Lana Wachowski",
+    "Length_Minutes": 136,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Film": "City of God",
+    "Year": 2002,
+    "Body_Count": 60,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Fernando Meirelles|Katia Lund",
+    "Length_Minutes": 130,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Film": "Lord of the Rings: Two Towers",
+    "Year": 2002,
+    "Body_Count": 468,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Peter Jackson",
+    "Length_Minutes": 179,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Film": "Seven Samurai",
+    "Year": 1954,
+    "Body_Count": 65,
+    "MPAA_Rating": "Unrated",
+    "Genre": "Action|Drama",
+    "Director": "Akira Kurosawa",
+    "Length_Minutes": 207,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Film": "Star Wars V: Empire Strikes Back",
+    "Year": 1980,
+    "Body_Count": 30,
+    "MPAA_Rating": "PG",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Director": "Irvin Kershner",
+    "Length_Minutes": 124,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Film": "Lord of the Rings: Fellowship of the Ring",
+    "Year": 2001,
+    "Body_Count": 118,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Peter Jackson",
+    "Length_Minutes": 178,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Film": "Schindler's List",
+    "Year": 1993,
+    "Body_Count": 98,
+    "MPAA_Rating": "R",
+    "Genre": "Biography|Drama|History",
+    "Director": "Steven Spielberg",
+    "Length_Minutes": 195,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Film": "Fight Club",
+    "Year": 1999,
+    "Body_Count": 14,
+    "MPAA_Rating": "R",
+    "Genre": "Drama",
+    "Director": "David Fincher",
+    "Length_Minutes": 139,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Film": "Lord of the Rings: Return of the King",
+    "Year": 2003,
+    "Body_Count": 836,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Adventure|Fantasy",
+    "Director": "Peter Jackson",
+    "Length_Minutes": 201,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Film": "Pulp Fiction",
+    "Year": 1994,
+    "Body_Count": 10,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama|Thriller",
+    "Director": "Quentin Tarantino",
+    "Length_Minutes": 154,
+    "IMDB_Rating": 9
+  },
+  {
+    "Film": "The Dark Knight",
+    "Year": 2008,
+    "Body_Count": 36,
+    "MPAA_Rating": "PG-13",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Director": "Christopher Nolan",
+    "Length_Minutes": 152,
+    "IMDB_Rating": 9
+  },
+  {
+    "Film": "The Shawshank Redemption",
+    "Year": 1994,
+    "Body_Count": 4,
+    "MPAA_Rating": "R",
+    "Genre": "Crime|Drama",
+    "Director": "Frank Darabont",
+    "Length_Minutes": 142,
+    "IMDB_Rating": 9.3
+  }
+]

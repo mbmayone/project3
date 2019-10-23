@@ -1,0 +1,179 @@
+header {
+  background-color: #f1f3f2;
+  height: 50px;
+  margin-bottom: 45px;
+}
+
+.voxbox {
+  padding: 10px;
+  margin: 0px;
+}
+
+.voxbox h1 {
+  font-family: miller-display, serif;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 60px;
+  color: #444745;
+  padding: 0px;
+  margin: 0px;
+}
+
+.voxbox h1 span {
+  background-color: #fff200;
+  padding: 10px;
+  margin-left: 5%;
+  margin-bottom: 10px;
+}
+
+#nav {
+	margin:0;
+	padding: 10px 0 0 0;
+  float: right;
+}
+
+#nav li {
+	display: inline;
+	padding: 0 10px 0 0;
+	margin: 0;
+  font-weight: bold;
+}
+
+#nav li a {
+  color: #4e504f;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+#nav a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+header label, #hamburger {
+  display: none;
+}
+.article {
+  margin: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.a-title {
+  margin-top: 150px;
+}
+
+.a-title h1, h4, h5 {
+  font-family: 'Oswald', sans-serif;
+  color: #4c4e4d;
+  font-style: normal;
+  font-weight: 500;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.a-title h4 {
+  font-weight: 300;
+  padding-top: 12px;
+}
+
+.a-title h5 {
+  font-weight: 300;
+  font-size: 18px;
+  font-stretch: expanded;
+  padding-top: 12px;
+}
+
+.a-title a {
+  text-decoration: none;
+  color: #4c4e4d;
+}
+
+.a-title a:hover {
+  color: black;
+}
+
+.break {
+  margin-top: 50px;
+}
+
+.break2 {
+  margin-top: 25px;
+}
+
+.paragraph {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: #4c4e4d;
+  font-size: 18px;
+}
+
+
+#topten-chart, #mpaarating-chart, #rating-chart {
+  max-width: 650px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.table-bottom {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 150px;
+}
+
+.footer {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+/* creates hamburger menu */
+@media screen and (max-width: 850px){
+  /* Show Hamburger */
+   header label {
+    display: inline-block;
+    color: black;
+    font-style: normal;
+    float: right;
+    font-size: 1.2em;
+    padding: 10px;
+  }
+
+  /* Break down menu items into vertical */
+  header ul {
+    background-color: lightgrey;
+    position: static;
+    padding-left: 30px;
+  }
+
+   header ul li {
+    display: block;
+  }
+
+  header ul li a {
+   display: block;
+   position: relative;
+ }
+   header  ul li {
+    border-top: 1px solid #333;
+  }
+
+  /* Toggle show/hide menu on checkbox click */
+   header ul {
+    display: none;
+  }
+   header input:checked ~ ul {
+    display: block;
+  }
+
+  .article {
+    margin: 40px;
+  }
+
+  .paragraph img {
+    float: left;
+
+  }
+
+}
